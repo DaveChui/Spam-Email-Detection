@@ -1,5 +1,5 @@
-#Spam Email Detection using Machine Learning
-##Introduction
+# Spam Email Detection using Machine Learning
+## Introduction
 Spam emails are unwanted and unsolicited emails that are sent to a large number of recipients. These emails are often sent for the purpose of advertising or phishing. Spam emails can be a nuisance for users as they take up space in their email inboxes and can sometimes contain malicious links or attachments.
 
 Using machine learning, it is possible to build a model that can classify emails as spam or not spam (also known as "ham"). In this project, we will build and train a machine learning model to detect spam emails.
